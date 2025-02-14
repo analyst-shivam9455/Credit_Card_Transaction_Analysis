@@ -42,64 +42,64 @@
 This dashboard provides a comprehensive analysis of credit card transactions.
 
   - ##### Quarterly Revenue and Transaction Trends
-      Insight:
-      •	Revenue remained stable across quarters (~$14M per quarter).
-      •	Q3 had the highest transaction volume (~166.6K), while Q2 had the lowest (~161.6K).
-      •	There is no significant seasonal fluctuation, indicating a steady spending pattern throughout the year.
+       Insight:
+       -	Revenue remained stable across quarters (~$14M per quarter).
+       -	Q3 had the highest transaction volume (~166.6K), while Q2 had the lowest (~161.6K).
+       -	There is no significant seasonal fluctuation, indicating a steady spending pattern throughout the year.
 ________________________________________
    - ##### Total Revenue, Interest, and Amount Summary
        Insight:
-       •	Total Revenue: $55.3M
-       •	Total Interest Earned: $7.8M
-       •	Total Transactions: 655.7K
-       •	Total Amount Processed: $44.5M
-       •	Interest revenue accounts for ~14% of total revenue, indicating a balanced revenue mix between transactions and interest earnings.
+       -	Total Revenue: $55.3M
+       -	Total Interest Earned: $7.8M
+       -	Total Transactions: 655.7K
+       -	Total Amount Processed: $44.5M
+       -	Interest revenue accounts for ~14% of total revenue, indicating a balanced revenue mix between transactions and interest earnings.
 ________________________________________
   - ##### Revenue by Expense Type
       Insight:
-      •	Top spending categories: Bills ($14M), Entertainment ($10M), and Fuel ($9M).
-      •	Lowest spending categories: Food ($8M) and Travel ($6M).
-      •	Customers spend more on essentials (Bills & Fuel) than discretionary purchases (Travel).
+      -	Top spending categories: Bills ($14M), Entertainment ($10M), and Fuel ($9M).
+      -	Lowest spending categories: Food ($8M) and Travel ($6M).
+      -	Customers spend more on essentials (Bills & Fuel) than discretionary purchases (Travel).
 ________________________________________
   - ##### Revenue by Card Type
       Insight:
-      •	Blue Card generates the most revenue ($46M), followed by Silver ($6M).
-      •	Gold and Platinum cards contribute only $3M combined, suggesting fewer premium cardholders.
+      -	Blue Card generates the most revenue ($46M), followed by Silver ($6M).
+      -	Gold and Platinum cards contribute only $3M combined, suggesting fewer premium cardholders.
 ________________________________________
   - ##### Revenue by Payment Method (Swipe, Chip, Online)
       Insight:
-      •	Swipe transactions dominate ($35M), while Chip-based transactions account for $17M.
-      •	Online payments are significantly lower ($3M), suggesting lower adoption of digital transactions.
+      -	Swipe transactions dominate ($35M), while Chip-based transactions account for $17M.
+      -	Online payments are significantly lower ($3M), suggesting lower adoption of digital transactions.
 ________________________________________
   - ##### Revenue by Age Group
       Insight:
-      •	Ages 40-50 contribute the highest revenue ($24M), followed by 50-60 ($18M).
-      •	Young adults (20-30) and seniors (60+) contribute the least.
+      -	Ages 40-50 contribute the highest revenue ($24M), followed by 50-60 ($18M).
+      -	Young adults (20-30) and seniors (60+) contribute the least.
 ________________________________________
   - ##### Revenue by Education Level
       Insight:
-      •	Graduates contribute the most ($22M), followed by High School ($11M).
-      •	Doctorates and Post-Graduates spend the least (~$3M-$2M).
+      -	Graduates contribute the most ($22M), followed by High School ($11M).
+      -	Doctorates and Post-Graduates spend the least (~$3M-$2M).
 ________________________________________
   - ##### Revenue by Income Group
       Insight:
-      •	High-income individuals contribute the highest revenue ($22M).
-      •	Low-income groups spend slightly more than middle-income earners (~$10M vs. $8M).
-      •	Suggests that lower-income individuals might rely more on credit for purchases.
+      -	High-income individuals contribute the highest revenue ($22M).
+      -	Low-income groups spend slightly more than middle-income earners (~$10M vs. $8M).
+      -	Suggests that lower-income individuals might rely more on credit for purchases.
 ________________________________________
   - ##### Revenue by Customer Job Type
       Insight:
-      •	Businessmen contribute the highest revenue ($17.3M), followed by white-collar professionals ($10.1M).
-      •	Retirees and blue-collar workers contribute the least (~$4.5M-$7M).
+      -	Businessmen contribute the highest revenue ($17.3M), followed by white-collar professionals ($10.1M).
+      -	Retirees and blue-collar workers contribute the least (~$4.5M-$7M).
 ________________________________________
     
   - ##### Top 5 States by Revenue
       Insight:
-      •	California (CA), New York (NY), and Texas (TX) are top contributors (~$6M-$7M each).
-      •	Florida (FL) and New Jersey (NJ) also contribute significant revenue.
+      -	California (CA), New York (NY), and Texas (TX) are top contributors (~$6M-$7M each).
+      -	Florida (FL) and New Jersey (NJ) also contribute significant revenue.
 ________________________________________
   - ##### Weekly Revenue Trends
       Insight:
-      •	Revenue fluctuates weekly but remains relatively stable throughout the months.
-      •	Higher revenue spikes in certain weeks—potentially linked to salary payouts or holidays.
+      -	Revenue fluctuates weekly but remains relatively stable throughout the months.
+      -	Higher revenue spikes in certain weeks—potentially linked to salary payouts or holidays.
 ________________________________________
