@@ -3,19 +3,19 @@
 ## Dataset Information
  
  **Dataset Name:** Credit Card Transactions Dataset
- **Attributes Included:**
+ - **Attributes Included:**
   - Transaction Amount
   - Revenue by Card Type
   - Customer Job Category
   - Spending Behavior (Bills, Entertainment, Grocery, etc.)
   - Income Group, Education Level, and House Ownership
   - Satisfaction Score and Interest Earned etc
-- **Source-1:** Dataset-1 : [customer.csv](https://github.com/user-attachments/files/18796921/customer.csv)
-                Dataset-2 :   [credit_card.csv](https://github.com/user-attachments/files/18796949/credit_card.csv)
+- **Source-1:** - Dataset-1 : [customer.csv](https://github.com/user-attachments/files/18796921/customer.csv)
+                - Dataset-2 :   [credit_card.csv](https://github.com/user-attachments/files/18796949/credit_card.csv)
 
 ## Dashboard Summary
 
-- This dashboard contains two pages one for Credit_card_Transaction and another for Customer detail
+  - This dashboard contains two pages one for Credit_card_Transaction and another for Customer detail
 
 - #### Key KPI's :
    - Total Revenue
